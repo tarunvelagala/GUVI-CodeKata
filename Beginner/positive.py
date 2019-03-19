@@ -5,4 +5,3 @@ elif n == 0:
     print("Zero")
 else:
     print("Negative")
-    print("dgdg")
